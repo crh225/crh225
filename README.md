@@ -40,7 +40,7 @@
 
 ### Current Experiments
 
-- 🎮 Building a retro terminal game into my Gatsby blog ([try it!](https://blog.chrishouse.io))
+- 🎮 Building a retro terminal game into my blog ([try it!](https://blog.chrishouse.io))
 - 🎮 Building a retro m.ario game ([try it!](https://blog.chrishouse.io/cyber-mario))
 - 📡 [Memphis Meshview](https://meshview.chrishouse.io) — Real-time Meshtastic radio network visualization
 - 🏠 Homelab running K3s on Raspberry Pi 5, exposed via Cloudflare Tunnel
