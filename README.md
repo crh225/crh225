@@ -12,7 +12,7 @@
 
 [![Blog](https://img.shields.io/badge/Blog-blog.chrishouse.io-00ff7f?style=flat-square&logo=gatsby)](https://blog.chrishouse.io)
 [![Medium](https://img.shields.io/badge/Medium-@chrishouse-000?style=flat-square&logo=medium)](https://medium.com/@chrishouse)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-chrishouse-0077B5?style=flat-square&logo=linkedin)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/1chrishouse/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-chrishouse-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/1chrishouse/)
 
 ---
 
