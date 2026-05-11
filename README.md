@@ -18,11 +18,7 @@
 
 ### What I'm Building
 
-🔧 **[ARM Service Portal](https://github.com/crh225/ARMServicePortal)** — Self-service portal for Azure infrastructure provisioning via Terraform + GitOps
-
-🚀 **Internal Developer Platforms** — Backstage, ArgoCD, Port.io integrations for golden paths and day-2 operations
-
-🌐 **Kubernetes at the Edge** — Running K3s on Raspberry Pi with Cloudflare Tunnel for secure homelab publishing
+🚀 **Internal Developer Platforms** — Port.io integrations for golden paths and day-2 operations
 
 ---
 
