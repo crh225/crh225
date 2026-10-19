@@ -22,23 +22,6 @@
 
 ---
 
-### Recent Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Golden Paths, Day-2 Operations, and Where the Abstractions Crack](https://blog.chrishouse.io/blog/golden-paths-day2-operations)
-- [How I Built Ephemeral PR Environments on AKS](https://blog.chrishouse.io/blog/ephemeral-pr-environments-aks)
-- [Elastic Cloud Fleet Agent + Kubernetes Container Logs](https://blog.chrishouse.io/blog/elastic-fleet-agent-kubernetes)
-- [Configuring ArgoCD to Access Private GitHub Repositories](https://blog.chrishouse.io/blog/argocd-private-github-repos)
-- [Building the ARM Service Portal](https://blog.chrishouse.io/blog/arm-service-portal)
-<!-- BLOG-POST-LIST:END -->
-
----
-
 ### Current Experiments
 
-- 🎮 Building a retro terminal game into my blog ([try it!](https://blog.chrishouse.io))
-- 🎮 Building a retro m.ario game ([try it!](https://blog.chrishouse.io/cyber-mario))
-- 📡 [Memphis Meshview](https://meshview.chrishouse.io) — Real-time Meshtastic radio network visualization
-- 🏠 Homelab running K3s on Raspberry Pi 5, exposed via Cloudflare Tunnel
-
----
+- 🎮 Building a blog about the blog ([visit it!](https://chrishouse.io))
